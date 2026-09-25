@@ -5,7 +5,7 @@ import {
   ShieldAlert, Users, ArrowRight, Zap, Droplet, Clock, Check
 } from 'lucide-react';
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL || ' https://bloodconnectbackend-api.onrender.com';
+const API_BASE = import.meta.env.VITE_API_BASE_URL || ' https://bloodconnectbackend-api.onrender.com/api';
 
 const COMPATIBILITY_MATRIX = [
   { recipient: 'O-', donors: ['O-'] },
