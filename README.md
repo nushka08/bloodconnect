@@ -5,7 +5,7 @@
 [![Database](https://img.shields.io/badge/Database-MySQL%208.0-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://aiven.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-> **Live Demo:** [bloodconnect-client.vercel.app](https://bloodconnect-client.vercel.app)  
+> **Live Demo:** [bloodconnect-zeta-neon.vercel.app](https://bloodconnect-zeta-neon.vercel.app)  
 > **Backend API Base:** `https://bloodconnectbackend-api.onrender.com/api`
 
 ---
